@@ -1,0 +1,38 @@
+body{
+    background-color: #332941;
+}
+
+#image-container{
+    display: flex;
+    flex-wrap: wrap;
+    border: 5px solid #F8E559;
+    margin: 20px 10px;
+}
+
+#input-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 400px;
+    height: 80px;
+    border-radius: 15px;
+    margin-right: 10px;
+    font-size: 25px;
+    border: 2px solid #864AF9;
+}
+
+button{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: #3B3486;
+    border: none;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
